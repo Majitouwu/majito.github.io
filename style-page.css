@@ -1,0 +1,29 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Architects+Daughter&family=Patrick+Hand&display=swap');
+
+body{
+	font-family: "Patrick Hand";
+}
+.fondo {
+    background-color: #A7E8DD;
+}
+.carrucel {
+    background-color: #1B3464;
+}
+.caja {
+    background-color: #6EC0FF;
+}
+.boton {
+    background-color: #DADA8F;
+    color: #FFFFFF;
+}
+
+
+
+
+.pie-pag {
+    background-color: #5694E3;
+    padding: 50px;
+    font-style: normal;
+	font-family: "Annie Use Your Telescope";
+}
